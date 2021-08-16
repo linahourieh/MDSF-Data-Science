@@ -22,3 +22,11 @@ Subjects Covered:
 A bank has a pool of customers with the following data Customer_dataset.
 The bank’s manager wants to launch a youth campaign to encourage young customers (Age<25). As a data scientist, you were asked to do a study describing the provided data.
 Use Python to generate an analytical report (+ pandas visualisation) that would help the manager take the right decision regarding the youth campaign.
+
+
+## Project 2: Urban Park Ranger Animal Condition
+
+This data is collected by NYC from response calls to report animals whom are in danger or in need for assist.
+The dataset contains many variables related to the call setting and animal condition. 
+The pure aim of this project is to clean as much data as we can, so it could be used later.
+
